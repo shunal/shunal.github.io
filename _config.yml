@@ -1,11 +1,11 @@
 # Site settings
 author: Steven Hunal
-title: 
+title: Becoming a Software Engineer
 header-img: img/home-bg.png
 email: stevehunal@gmail.com
 copyright_name: Steven Hunal
 description: > # this means to ignore newlines until "baseurl:"
-  
+  From fledgling to full-fledged
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  shunal
